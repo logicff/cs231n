@@ -1,6 +1,11 @@
+# Created by myself
 temp
+slides
 
+# Python
 __pycache__
 
+# Assignment 1
 assignments/assignment1/cs231n/datasets/cifar-10-batches-py
 assignments/assignment1/cs231n/datasets/imagenet_val_25.npz
+assignments/assignment1/cs231n/saved/
